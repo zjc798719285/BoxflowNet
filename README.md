@@ -1,2 +1,2 @@
-# BoxflowNet
-bbox flow network
+# BoxFlowNet
+
